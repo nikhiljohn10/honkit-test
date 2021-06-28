@@ -1,0 +1,13 @@
+{
+  "name": "honkit-test",
+  "version": "1.0.0",
+  "description": "Honkit Test",
+  "main": "index.js",
+  "devDependencies": {
+    "honkit": "^3.4.0"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "Nikhil John",
+  "license": "Unlicense"
+}

@@ -1,0 +1,8 @@
+MANIFEST
+.DS_Store
+_book
+node_modules
+package-lock.json
+.idea
+.swp
+yarn.lock
